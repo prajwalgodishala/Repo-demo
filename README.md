@@ -11,4 +11,9 @@ ls, list files, to see/check all the files/folders, it lists all the files and f
 <br>
 to see hidden files => "ls -a" 
 <br>
-status => display the status of the code, syntax => git status
+status => display the status of the code, syntax => git status.
+<br>
+4 types of statuses, Untracked, Modified, Staged, Unmodified.<br>
+Untracked=new files git doesn't yet track, Modified=changed, Staged=file ready to be committed<br>
+Add => adds new or changed files in your working directory to the git staging area<br> 
+Add syntax => git add filename 
