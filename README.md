@@ -19,6 +19,7 @@ Add => adds new or changed files in your working directory to the git staging ar
 Add syntax => git add filename 
 Commit => is is the record of change, SYNTAX => git commit -m "some message"<br>
 Your branch is ahead of 'origin/main' by 1 commit. This means our local machine is one step ahead as compared to the github. To get this into the github we use push command. <br>
-push => upload local repo content to remote repo, SYNTAX => git push origin main. (origin is the git default folder name, and main is the branch)
-
+push => upload local repo content to remote repo, SYNTAX => git push origin main. (origin is the git default folder name, and main is the branch) <br>
+Upto here what we have done is cloning the project from repo to our local machine, can check statuses, add the changes, commiting and push it back to the repo. But in most of the cases whjat we will do is we start the project from the folder in our local machine and then work. Now how to handle it.<br>
+init => used to create a new git repo.
 
