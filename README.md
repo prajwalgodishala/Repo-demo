@@ -17,3 +17,6 @@ status => display the status of the code, syntax => git status.
 Untracked=new files git doesn't yet track, Modified=changed, Staged=file ready to be committed<br>
 Add => adds new or changed files in your working directory to the git staging area<br> 
 Add syntax => git add filename 
+Commit => is is the record of change, SYNTAX => git commit -m "some message"
+
+
