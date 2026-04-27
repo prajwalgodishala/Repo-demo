@@ -17,6 +17,8 @@ status => display the status of the code, syntax => git status.
 Untracked=new files git doesn't yet track, Modified=changed, Staged=file ready to be committed<br>
 Add => adds new or changed files in your working directory to the git staging area<br> 
 Add syntax => git add filename 
-Commit => is is the record of change, SYNTAX => git commit -m "some message"
+Commit => is is the record of change, SYNTAX => git commit -m "some message"<br>
+Your branch is ahead of 'origin/main' by 1 commit. This means our local machine is one step ahead as compared to the github. To get this into the github we use push command. <br>
+push => upload local repo content to remote repo, SYNTAX => git push origin main. (origin is the git default folder name, and main is the branch)
 
 
